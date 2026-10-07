@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @kgervin
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning cybersecurity essentials and python
-- 💞️ I’m looking to collaborate on fintec projects
 - 📫 reach me on kahundegervin@gmail.com
 
 <!---

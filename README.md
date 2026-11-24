@@ -1,8 +1,16 @@
 # Hi, I'm Gervin Kahunde 👋
 
-### Building practical AI tools for education
+### Human-Computer Interaction · Engineering · AI
 
-I build tools that help people navigate complex processes and take the next step with confidence. My projects explore how AI, clear design, and reliable software can support students and the people who work with them.
+I'm interested in how people understand, use, and trust technology, and how thoughtful engineering can make those interactions better. I build tools that help people navigate complex processes and take the next step with confidence.
+
+My projects bring these interests together through accessible interfaces, reliable software, and practical AI tools for education.
+
+## What I'm exploring
+
+- **Human-Computer Interaction (HCI):** Usability, accessibility, interaction design, and how people understand and work with AI systems.
+- **Engineering:** Turning ideas into dependable software through clear architecture, testing, and iterative improvement.
+- **AI in education:** Helping students and coaches understand their options, navigate barriers, and make informed decisions.
 
 ## Featured projects
 
@@ -16,6 +24,8 @@ A student-support prototype that helps success coaches spot small, fixable enrol
 
 **Built with:** Python · FastAPI · React · TypeScript
 
+**HCI focus:** Clear explanations, visible review decisions, and human control over AI-generated outreach.
+
 ### [ASU Connect](https://github.com/kgervin/asu-connect)
 
 An MCP server prototype that gives AI agents tools to explore degree programs, estimate transfer credit, and find non-degree course options.
@@ -26,11 +36,14 @@ An MCP server prototype that gives AI agents tools to explore degree programs, e
 
 **Built with:** Python · FastMCP · Model Context Protocol
 
+**HCI focus:** Making estimates understandable, showing sources, and giving people a clear next step.
+
 ## How I approach building
 
-- **Start with a useful next step.** Make complex information easier to understand and act on.
+- **Start with the person.** Understand the task and the barriers before choosing a technical solution.
+- **Make interactions clear.** Use plain language, accessible interfaces, and useful feedback.
 - **Keep people in control.** Use AI to assist decisions, with clear rules and human review where needed.
-- **Build for trust.** Prioritize accessibility, input validation, testing, and traceable outputs.
+- **Engineer for reliability.** Validate inputs, test important behavior, and make outputs traceable.
 
 ## Tools in these projects
 
@@ -40,9 +53,15 @@ An MCP server prototype that gives AI agents tools to explore degree programs, e
 
 ## Let's connect
 
-Interested in AI tools for education, student support, or accessible software? I'd be glad to connect.
+Interested in HCI, engineering, accessible software, or AI in education? I'd be glad to exchange ideas and explore collaborations.
 
 [Email me](mailto:kahundegervin@gmail.com) · [Explore my repositories](https://github.com/kgervin?tab=repositories)
+
+
+<!---
+kgervin/kgervin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
 
 <!---
